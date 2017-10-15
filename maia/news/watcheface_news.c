@@ -46,7 +46,7 @@ static char g_str_news_4[60] = {0};
 #define NEWS_4_H 		37
 #define NEWS_4_W		169
 
-#define NEWS_URL		"http://v.juhe.cn/toutiao/index?key=72f177dd702b579e76c69791d3d8e3cf&type="
+#define NEWS_URL		"http://v.juhe.cn/toutiao/index?key=f0097b87b4b37dfe24eecafbf43075e3&type="
 static char g_str_news_url[186] = {0};
 
 /*
